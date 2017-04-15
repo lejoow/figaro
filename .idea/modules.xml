@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch2/ch2.iml" filepath="$PROJECT_DIR$/ch2/ch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ch2-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons.iml" filepath="$PROJECT_DIR$/.idea/modules/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons-build.iml" filepath="$PROJECT_DIR$/.idea/modules/commons-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/figaro.iml" filepath="$PROJECT_DIR$/.idea/modules/figaro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/figaro-build.iml" filepath="$PROJECT_DIR$/.idea/modules/figaro-build.iml" />
     </modules>
   </component>
 </project>
