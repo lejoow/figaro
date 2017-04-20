@@ -15,3 +15,5 @@ lazy val commons = (project in file("commons"))
   )
 
 lazy val ch2 = (project in file("ch2")).dependsOn(commons)
+lazy val ch3 = (project in file("ch3")).dependsOn(commons)
+
